@@ -5,7 +5,7 @@ Perl Multi Platform Screenshot script that uploads over scp
 - Linux
 - macOS
 - Windows (requires .net framework, [clip command](https://www.c3scripts.com/tutorials/msdos/clip.html), [strawberry perl](https://strawberryperl.com/), and [git-bash](https://git-scm.com/download/win))
- - The clip.exe command file comes standard with Windows Vista and newer versions of Windows. It does not come standard with earlier versions of Windows such as Windows XP. (clip.exe first appeared in the Windows 98 Resource pack, and then reappeared starting with Windows Vista).
+  - The clip.exe command file comes standard with Windows Vista and newer versions of Windows. It does not come standard with earlier versions of Windows such as Windows XP. (clip.exe first appeared in the Windows 98 Resource pack, and then reappeared starting with Windows Vista).
 
 
 
