@@ -25,7 +25,8 @@ to %USERPROFILE%
 - Copy screengrab.sh, screengrab.bat, screengrab.pl to %USERPROFILE%
 - Create a shortcut for cmd.exe
     - Name: Screengrab
-    - Target: C:\Windows\System32\cmd.exe "/c start /min screengrab.bat"
+    - Target: C:\Windows\System32\cmd.exe "/c title screengrab start /min 
+screengrab.bat"
     - Start In: %USERPROFILE%
     - Shortcut Key: Shift + Prt Scrn (or whatever you want)
     -Run: Minimized
