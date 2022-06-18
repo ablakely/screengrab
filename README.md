@@ -23,13 +23,14 @@ for scp
 [screenCapture.bat](https://raw.githubusercontent.com/npocmaka/batch.scripts/master/hybrids/.net/c/screenCapture.bat) 
 to %USERPROFILE%
 - Copy screengrab.sh, screengrab.bat, screengrab.pl to %USERPROFILE%
-- Create a shortcut for cmd.exe
+- Create a shortcut for cmd.exe, right click and then click properties.
     - Name: Screengrab
     - Target: C:\Windows\System32\cmd.exe "/c title screengrab start /min 
 screengrab.bat"
     - Start In: %USERPROFILE%
     - Shortcut Key: Shift + Prt Scrn (or whatever you want)
     - Run: Minimized
+    - Icon: You can select a different icon from default list by browsing to C:\System32\SHELL32.dll
 
 ---
 Written by Aaron Blakely <<aaron@ephasic.org>>
