@@ -13,8 +13,7 @@
 #
 # REQUIREMENTS: 
 #  To use this script, it assumes you have several things set up:
-#  1. [Linux] You have a working installation of scrot and xclip (optional: 
-notify-send)
+#  1. [Linux] You have a working installation of scrot and xclip (optional: notify-send)
 #  2. You are using pubkey (or some other automated form) authentication for scp
 #
 # INSTALLING:
