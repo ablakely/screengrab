@@ -36,9 +36,8 @@ screengrab.bat"
     - Icon: You can select a different icon from default list by browsing to C:\System32\SHELL32.dll
     
 # i3wm config:
-  `bindsym Print exec /usr/local/bin/screengrab
-  
-  bindsym Shift+Print exec /usr/local/bin/screengrab -s`
+    bindsym Print exec /usr/local/bin/screengrab
+    bindsym Shift+Print exec /usr/local/bin/screengrab -s
 
 # macOS Keyboard Shortcuts:
    For keyboard shortcuts I am using this free software:
