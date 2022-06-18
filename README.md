@@ -19,7 +19,9 @@ for scp
  && sudo cp screengrab /usr/local/bin`
 
 ### Windows
-- Download [screenCapture.bat](https://archive.ph/DWbeY) to %USERPROFILE%
+- Download 
+[screenCapture.bat](https://raw.githubusercontent.com/npocmaka/batch.scripts/master/hybrids/.net/c/screenCapture.bat) 
+to %USERPROFILE%
 - Copy screengrab.sh, screengrab.bat, screengrab.pl to %USERPROFILE%
 - Create a shortcut for cmd.exe
     - Name: Screengrab
