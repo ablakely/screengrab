@@ -4,7 +4,7 @@ Perl Multi Platform Screenshot script that uploads over scp
 ## OS Compatibility
 - Linux
 - macOS
-- Windows (requires clip command, strawberry perl, and git-bash)
+- Windows (requires clip command, [strawberry perl](https://strawberryperl.com/), and [git-bash](https://git-scm.com/download/win))
 
 ## Requirements
 To use this script, it assumes you have several things setup:
