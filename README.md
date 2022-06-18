@@ -29,7 +29,7 @@ to %USERPROFILE%
 screengrab.bat"
     - Start In: %USERPROFILE%
     - Shortcut Key: Shift + Prt Scrn (or whatever you want)
-    -Run: Minimized
+    - Run: Minimized
 
 ---
 Written by Aaron Blakely <<aaron@ephasic.org>>
