@@ -18,8 +18,8 @@ for scp
 
 ## Installing
 ### Linux and macOS
-`chmod +x screengrab
- && sudo cp screengrab /usr/local/bin`
+`chmod +x screengrab.pl
+ && sudo cp screengrab.pl /usr/local/bin/screengrab`
 
 ### Windows
 - Download 
