@@ -36,8 +36,8 @@ screengrab.bat"
     - Icon: You can select a different icon from default list by browsing to C:\System32\SHELL32.dll
 
 # Usage
-    screengrab.pl - Screenshot main desktop
-    screengrab.pl -s - Screenshot with selected area (Linux and macOS only)
+    screengrab - Screenshot main desktop
+    screengrab -s - Screenshot with selected area (Linux and macOS only)
 
 # i3wm config:
     bindsym Print exec /usr/local/bin/screengrab
